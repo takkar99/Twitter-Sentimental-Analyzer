@@ -2,6 +2,8 @@
 
 {Created By: Ishaan Takkar, under the guidance of Dr. Parshant Singh Rana (Associate Professor, TIET Patiala) }
 
+Live Link of Project - https://share.streamlit.io/takkar99/twitter-sentimental-analyzer/main/app.py
+
 Twitter Sentimental Analyzer can analyze the tweets of your favorite Personalities and perform the sentimental analysis on last 100 tweets for the person.
 
 Two Functions can be Performed: Tweet Analyzer, Generate Twitter Data.
